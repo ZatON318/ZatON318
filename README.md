@@ -4,7 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZatON318&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![ZatON318 github stats](https://github-readme-stats.vercel.app/api?username=ZatON318&show_icons=true&hide_border=true)
+- name: GitHub-Profile-Summary-Cards
+  uses: vn7n24fzkq/github-profile-summary-cards@v0.5.3
+
 <!--
 **ZatON318/ZatON318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
